@@ -1,3 +1,5 @@
+//Under the package Model a new class named CalcDisolay for display of calculator
+
 
 package Model;
 
