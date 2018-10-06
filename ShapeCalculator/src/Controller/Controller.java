@@ -23,6 +23,8 @@ public class Controller {
         view.setCalcButtonListener(new CalcButtonListener());
 
     }
+    
+    //using ActionListener
 
     class CalcButtonListener implements ActionListener {
         boolean OperationAlreadyHappened = false;
