@@ -14,6 +14,7 @@ public class ButtonInfo {
 
     }
 
+    //function and switch case
     private void readButtonValue(String buttonText) {
         switch (buttonText){
             case "C" : isClear = true; break;
