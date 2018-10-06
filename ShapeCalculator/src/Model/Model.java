@@ -110,6 +110,8 @@ public class Model extends Observable {
         notifyObservers(update);
 
     }
+    
+    //function for setting current total 
 
     public void setCurrentTotal(String newTotal) {
         float floatTotal = Float.parseFloat(newTotal);
