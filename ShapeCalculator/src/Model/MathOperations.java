@@ -12,6 +12,5 @@ public class MathOperations extends ArrayList <String>{
         add("-");   
     }
 
-    
-    //this is for math operation
+    //Math operations function
 }
