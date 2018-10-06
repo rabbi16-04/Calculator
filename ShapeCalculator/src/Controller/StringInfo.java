@@ -14,6 +14,7 @@ int lastCharIndex;
 
     }
 
+    //function to read string values
     private void readStringValue(String computationText) {
 
         if (computationText.equals("")) {
